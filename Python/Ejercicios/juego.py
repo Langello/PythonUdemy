@@ -45,7 +45,7 @@ def main():
             print("CERRANDO JUEGO")
             break
         else:
-            print("Opción incorrecta buelve ingresar")
+            print("Opción incorrecta vuelve ingresar")
 
 if __name__ == '__main__':
     main()
