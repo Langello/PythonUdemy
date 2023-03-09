@@ -7,3 +7,4 @@ persona1.nombre = 'Roel'
 persona1.mostra_datos()
 
 print(persona1)
+
